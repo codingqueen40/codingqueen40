@@ -34,7 +34,7 @@ Ma mission : accompagner les femmes de +40 ans à apprendre le code, créer leur
 
 ## 📌 Projets épinglés
 
-🔗 `support-HTML` – Support PDF du cours HTML  
+🔗 [Support PDF du cours HTML](https://codingqueen40.github.io/references/)  
 🔗 `html-cours-code` – Exemples de code du cours
 
 ---
