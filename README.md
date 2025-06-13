@@ -21,8 +21,7 @@ Ma mission : accompagner les femmes de +40 ans à apprendre le code, créer leur
 - 📺 [YouTube – CodingQueen40](https://youtube.com/@codingqueen40)
 - 📸 [Instagram](https://instagram.com/codingqueen40)
 - 📸 [Tiktok](https://www.tiktok.com/@codingqueen40)
-- 📬 [Formulaire de contact](https://notionforms.io/forms/contact-codingqueen40)
-- 📧 `contact@codingqueen40.com` (alias redirigé)
+- 📬 [Formulaire de contact](https://contact-codingqueen40.netlify.app/)
 
 ---
 
