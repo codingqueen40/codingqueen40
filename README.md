@@ -1,6 +1,6 @@
 # 👑 Welcome to CodingQueen40!
 
-> 🌟 Apprendre le code après 40 ans ? YES YOU CAN.
+> 🌟 Start Late! Start Over! Start Scared! Just Start! 🌟
 
 Je suis Grey, développeuse web, créatrice de contenus et maman solo ultra-motivée.  
 Ma mission : accompagner les femmes de +40 ans à apprendre le code, créer leurs projets et devenir libres et fières dans le monde digital 🚀
